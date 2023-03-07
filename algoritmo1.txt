@@ -1,0 +1,5 @@
+leia a 
+leia b
+faça a + b = x
+escreva o resultado de x
+ 
