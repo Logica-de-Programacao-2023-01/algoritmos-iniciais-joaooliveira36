@@ -1,0 +1,8 @@
+1 - Ira pedir uma lista
+2 - Ira ver oque voce deseja procurar
+3 - Conferir item por item da lista
+Se o elemento esteja na lista:
+4 - Escreva que o elemento se encontra na lista
+Se o elemento não estiver na lista:
+5 - Escreva que o elemento se encontra na lista
+

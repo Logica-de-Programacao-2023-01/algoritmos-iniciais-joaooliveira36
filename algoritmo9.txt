@@ -1,0 +1,8 @@
+1 - Ira pedir o valor do capital
+2 - Ira pedir o valor da taxa dos juros
+3 - Ira pedir o periodo em anos do periodo
+4 - Ira dividir o valor dos juros por 100 para dar o valor decimal dos juros
+5 - ira multiplicar o capitao pela taxa em decimal + 1 para dar o valor dos juros
+6 - Pegar o resultado dessa multiplicação e elevar pelo tempo
+7 - Escrever o resultado
+
