@@ -1,0 +1,21 @@
+Esse algoritmo irá calcular o fatorial de um numero.
+1 - Escreva um numero
+2 - Multiplique o numero por todos os numeros a partir de 1 ate ele mesmo
+3 - Escreva o resultado
+
+Um programa com essas instruções ficaria:
+ 
+numero = (input("Escreva o número desejado: "))
+resultado = 1
+contagem = 1
+
+while contagem <= float(numero):
+    resultado *= contagem
+    contagem += 1
+
+print(f"O fatorial de seu número é {resultado}")
+
+Um exemplo:
+Escreva o número desejado: 4
+O fatorial de seu número é print(resultado)
+O fatorial de seu número é 24
