@@ -5,3 +5,4 @@
 5 - Some todas as medias separadamente
 6 - Pegue o resultado do numero 5 e divida pelo resultado do numero 6
 7 - Escreva seu resultado
+8 - Pronto
