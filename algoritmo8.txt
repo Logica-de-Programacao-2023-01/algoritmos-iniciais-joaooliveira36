@@ -1,0 +1,5 @@
+1 - Pedir ao ususario uma base
+2 - Pedir ao usuario a altura do triangulo
+3 - multiplicar a base e a altura e dividir o resultado por 2
+4 - Escreva o resultado
+

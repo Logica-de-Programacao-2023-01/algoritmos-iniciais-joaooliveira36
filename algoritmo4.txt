@@ -1,0 +1,6 @@
+Esse algoritmo irá calcular o fatorial de um numero.
+1 - Escreva um numero
+2 - Multiplique o numero por todos os numeros a partir de 1 ate ele mesmo
+3 - Escreva o resultado
+
+

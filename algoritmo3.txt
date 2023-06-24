@@ -1,0 +1,5 @@
+leia x
+faça a soma de todos os números de x separados por um espaço
+ecreva o resultado
+faça a divisão do resultado pelo número de números separados por um espaço
+escreva o resultado

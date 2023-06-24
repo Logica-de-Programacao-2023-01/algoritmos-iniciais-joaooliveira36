@@ -1,0 +1,8 @@
+1 - Peça ao usuario que forneça os numeros desejados para se fazer a media
+2 - Peça ao usuario que forneça os pesos de cada numero
+3 - Multiplique o primeiro numero pelo primeiro peso, o segundo pelo segundo, e assim por diante
+4 - Some todos os resultados dessa multiplicação
+5 - Some todas as medias separadamente
+6 - Pegue o resultado do numero 5 e divida pelo resultado do numero 6
+7 - Escreva seu resultado
+8 - Pronto

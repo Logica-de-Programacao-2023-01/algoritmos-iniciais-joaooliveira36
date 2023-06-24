@@ -1,0 +1,8 @@
+leia temperatura
+leia unidade
+se unidade igual a celsius:
+resultado + temperatura 1,8 + 32
+escreva resultado
+senão:
+resultado = (temperatura - 32)/1.8
+escreva resultado
